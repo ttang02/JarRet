@@ -1,0 +1,5 @@
+JobId: 7001
+Description: Test permutations of size 7
+URL: http://igm.univ-mlv.fr/~carayol/WorkerNicaudSevenV1.jar
+Version: 1
+

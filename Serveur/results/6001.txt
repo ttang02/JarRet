@@ -1,0 +1,5 @@
+JobId: 6001
+Description: Test permutations of size 6
+URL: http://igm.univ-mlv.fr/~carayol/WorkerNicaudSixV1.jar
+Version: 1
+

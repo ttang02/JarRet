@@ -1,0 +1,5 @@
+JobId: 23571113
+Description: Test the primality of the first 10000000 numbers
+URL: http://igm.univ-mlv.fr/~carayol/WorkerPrimeV1.jar
+Version: 1
+

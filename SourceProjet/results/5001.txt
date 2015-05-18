@@ -1,0 +1,5 @@
+JobId: 5001
+Description: Test permutations of size 5
+URL: http://igm.univ-mlv.fr/~carayol/WorkerNicaudFiveV11.jar
+Version: 1.1
+

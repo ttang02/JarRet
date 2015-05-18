@@ -1,0 +1,7 @@
+{
+ "Port" :  "777"  ,
+ "LogsPath" : "logs",
+ "AnswersPath" : "results",
+ "MaxFileSize" : "5",
+ "Comeback" : "300"  
+}
